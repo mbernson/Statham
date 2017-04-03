@@ -7,25 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D510A3DE1E92D4F900E4C786 /* Alamofire+Promissum+Statham.swift in Sources */ = {isa = PBXBuildFile; fileRef = D510A3D51E92D4F900E4C786 /* Alamofire+Promissum+Statham.swift */; };
+		D510A3DF1E92D4F900E4C786 /* Alamofire+Statham.swift in Sources */ = {isa = PBXBuildFile; fileRef = D510A3D61E92D4F900E4C786 /* Alamofire+Statham.swift */; };
+		D510A3E01E92D4F900E4C786 /* Date+JsonGen.swift in Sources */ = {isa = PBXBuildFile; fileRef = D510A3D71E92D4F900E4C786 /* Date+JsonGen.swift */; };
+		D510A3E11E92D4F900E4C786 /* Foundation+JsonGen.swift in Sources */ = {isa = PBXBuildFile; fileRef = D510A3D91E92D4F900E4C786 /* Foundation+JsonGen.swift */; };
+		D510A3E21E92D4F900E4C786 /* JsonDecodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = D510A3DA1E92D4F900E4C786 /* JsonDecodable.swift */; };
+		D510A3E31E92D4F900E4C786 /* JsonDecodeError.swift in Sources */ = {isa = PBXBuildFile; fileRef = D510A3DB1E92D4F900E4C786 /* JsonDecodeError.swift */; };
+		D510A3E41E92D4F900E4C786 /* Types.swift in Sources */ = {isa = PBXBuildFile; fileRef = D510A3DC1E92D4F900E4C786 /* Types.swift */; };
+		D510A3E51E92D4F900E4C786 /* ValueOrJsonError.swift in Sources */ = {isa = PBXBuildFile; fileRef = D510A3DD1E92D4F900E4C786 /* ValueOrJsonError.swift */; };
 		D54EFA801DC2617E00DF8476 /* Statham.h in Headers */ = {isa = PBXBuildFile; fileRef = D54EFA7E1DC2617E00DF8476 /* Statham.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D54EFA8C1DC2619100DF8476 /* Date+JsonGen.swift in Sources */ = {isa = PBXBuildFile; fileRef = D54EFA851DC2619100DF8476 /* Date+JsonGen.swift */; };
-		D54EFA8D1DC2619100DF8476 /* Foundation+JsonGen.swift in Sources */ = {isa = PBXBuildFile; fileRef = D54EFA871DC2619100DF8476 /* Foundation+JsonGen.swift */; };
-		D54EFA8E1DC2619100DF8476 /* JsonDecodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = D54EFA881DC2619100DF8476 /* JsonDecodable.swift */; };
-		D54EFA8F1DC2619100DF8476 /* JsonDecodeError.swift in Sources */ = {isa = PBXBuildFile; fileRef = D54EFA891DC2619100DF8476 /* JsonDecodeError.swift */; };
-		D54EFA901DC2619100DF8476 /* Types.swift in Sources */ = {isa = PBXBuildFile; fileRef = D54EFA8A1DC2619100DF8476 /* Types.swift */; };
-		D54EFA911DC2619100DF8476 /* ValueOrJsonError.swift in Sources */ = {isa = PBXBuildFile; fileRef = D54EFA8B1DC2619100DF8476 /* ValueOrJsonError.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D510A3D51E92D4F900E4C786 /* Alamofire+Promissum+Statham.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Alamofire+Promissum+Statham.swift"; sourceTree = "<group>"; };
+		D510A3D61E92D4F900E4C786 /* Alamofire+Statham.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Alamofire+Statham.swift"; sourceTree = "<group>"; };
+		D510A3D71E92D4F900E4C786 /* Date+JsonGen.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Date+JsonGen.swift"; sourceTree = "<group>"; };
+		D510A3D91E92D4F900E4C786 /* Foundation+JsonGen.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Foundation+JsonGen.swift"; sourceTree = "<group>"; };
+		D510A3DA1E92D4F900E4C786 /* JsonDecodable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JsonDecodable.swift; sourceTree = "<group>"; };
+		D510A3DB1E92D4F900E4C786 /* JsonDecodeError.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JsonDecodeError.swift; sourceTree = "<group>"; };
+		D510A3DC1E92D4F900E4C786 /* Types.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Types.swift; sourceTree = "<group>"; };
+		D510A3DD1E92D4F900E4C786 /* ValueOrJsonError.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ValueOrJsonError.swift; sourceTree = "<group>"; };
 		D54EFA7B1DC2617E00DF8476 /* Statham.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Statham.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D54EFA7E1DC2617E00DF8476 /* Statham.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Statham.h; sourceTree = "<group>"; };
 		D54EFA7F1DC2617E00DF8476 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D54EFA851DC2619100DF8476 /* Date+JsonGen.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Date+JsonGen.swift"; sourceTree = "<group>"; };
-		D54EFA871DC2619100DF8476 /* Foundation+JsonGen.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Foundation+JsonGen.swift"; sourceTree = "<group>"; };
-		D54EFA881DC2619100DF8476 /* JsonDecodable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JsonDecodable.swift; sourceTree = "<group>"; };
-		D54EFA891DC2619100DF8476 /* JsonDecodeError.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JsonDecodeError.swift; sourceTree = "<group>"; };
-		D54EFA8A1DC2619100DF8476 /* Types.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Types.swift; sourceTree = "<group>"; };
-		D54EFA8B1DC2619100DF8476 /* ValueOrJsonError.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ValueOrJsonError.swift; sourceTree = "<group>"; };
 		D54EFA921DC2620A00DF8476 /* Carthage.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Carthage.xcconfig; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
@@ -40,6 +44,28 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D510A3D41E92D4F900E4C786 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				D510A3D51E92D4F900E4C786 /* Alamofire+Promissum+Statham.swift */,
+				D510A3D61E92D4F900E4C786 /* Alamofire+Statham.swift */,
+				D510A3D71E92D4F900E4C786 /* Date+JsonGen.swift */,
+			);
+			path = Extensions;
+			sourceTree = SOURCE_ROOT;
+		};
+		D510A3D81E92D4F900E4C786 /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				D510A3D91E92D4F900E4C786 /* Foundation+JsonGen.swift */,
+				D510A3DA1E92D4F900E4C786 /* JsonDecodable.swift */,
+				D510A3DB1E92D4F900E4C786 /* JsonDecodeError.swift */,
+				D510A3DC1E92D4F900E4C786 /* Types.swift */,
+				D510A3DD1E92D4F900E4C786 /* ValueOrJsonError.swift */,
+			);
+			path = Sources;
+			sourceTree = SOURCE_ROOT;
+		};
 		D54EFA671DC2613E00DF8476 = {
 			isa = PBXGroup;
 			children = (
@@ -59,34 +85,14 @@
 		D54EFA7D1DC2617E00DF8476 /* Statham */ = {
 			isa = PBXGroup;
 			children = (
-				D54EFA841DC2619100DF8476 /* Extensions */,
-				D54EFA861DC2619100DF8476 /* Sources */,
+				D510A3D41E92D4F900E4C786 /* Extensions */,
+				D510A3D81E92D4F900E4C786 /* Sources */,
 				D54EFA7E1DC2617E00DF8476 /* Statham.h */,
 				D54EFA7F1DC2617E00DF8476 /* Info.plist */,
 				D54EFA921DC2620A00DF8476 /* Carthage.xcconfig */,
 			);
 			path = Statham;
 			sourceTree = "<group>";
-		};
-		D54EFA841DC2619100DF8476 /* Extensions */ = {
-			isa = PBXGroup;
-			children = (
-				D54EFA851DC2619100DF8476 /* Date+JsonGen.swift */,
-			);
-			path = Extensions;
-			sourceTree = SOURCE_ROOT;
-		};
-		D54EFA861DC2619100DF8476 /* Sources */ = {
-			isa = PBXGroup;
-			children = (
-				D54EFA871DC2619100DF8476 /* Foundation+JsonGen.swift */,
-				D54EFA881DC2619100DF8476 /* JsonDecodable.swift */,
-				D54EFA891DC2619100DF8476 /* JsonDecodeError.swift */,
-				D54EFA8A1DC2619100DF8476 /* Types.swift */,
-				D54EFA8B1DC2619100DF8476 /* ValueOrJsonError.swift */,
-			);
-			path = Sources;
-			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
 
@@ -126,7 +132,7 @@
 		D54EFA681DC2613E00DF8476 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0800;
+				LastUpgradeCheck = 0830;
 				TargetAttributes = {
 					D54EFA7A1DC2617E00DF8476 = {
 						CreatedOnToolsVersion = 8.0;
@@ -167,12 +173,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D54EFA8F1DC2619100DF8476 /* JsonDecodeError.swift in Sources */,
-				D54EFA8C1DC2619100DF8476 /* Date+JsonGen.swift in Sources */,
-				D54EFA8D1DC2619100DF8476 /* Foundation+JsonGen.swift in Sources */,
-				D54EFA911DC2619100DF8476 /* ValueOrJsonError.swift in Sources */,
-				D54EFA901DC2619100DF8476 /* Types.swift in Sources */,
-				D54EFA8E1DC2619100DF8476 /* JsonDecodable.swift in Sources */,
+				D510A3E01E92D4F900E4C786 /* Date+JsonGen.swift in Sources */,
+				D510A3E11E92D4F900E4C786 /* Foundation+JsonGen.swift in Sources */,
+				D510A3DE1E92D4F900E4C786 /* Alamofire+Promissum+Statham.swift in Sources */,
+				D510A3E51E92D4F900E4C786 /* ValueOrJsonError.swift in Sources */,
+				D510A3E41E92D4F900E4C786 /* Types.swift in Sources */,
+				D510A3E21E92D4F900E4C786 /* JsonDecodable.swift in Sources */,
+				D510A3E31E92D4F900E4C786 /* JsonDecodeError.swift in Sources */,
+				D510A3DF1E92D4F900E4C786 /* Alamofire+Statham.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -182,12 +190,48 @@
 		D54EFA6C1DC2613E00DF8476 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
 			};
 			name = Debug;
 		};
 		D54EFA6D1DC2613E00DF8476 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
 			};
 			name = Release;
 		};
@@ -213,7 +257,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				COPY_PHASE_STRIP = NO;
 				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = dwarf;
@@ -279,7 +323,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				COPY_PHASE_STRIP = NO;
 				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
