@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D54EFA7A1DC2617E00DF8476"
+               BlueprintIdentifier = "D528A0A51E93971100D47AD3"
                BuildableName = "Statham.framework"
                BlueprintName = "Statham"
                ReferencedContainer = "container:Statham.xcodeproj">
@@ -45,7 +45,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D54EFA7A1DC2617E00DF8476"
+            BlueprintIdentifier = "D528A0A51E93971100D47AD3"
             BuildableName = "Statham.framework"
             BlueprintName = "Statham"
             ReferencedContainer = "container:Statham.xcodeproj">
@@ -63,7 +63,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D54EFA7A1DC2617E00DF8476"
+            BlueprintIdentifier = "D528A0A51E93971100D47AD3"
             BuildableName = "Statham.framework"
             BlueprintName = "Statham"
             ReferencedContainer = "container:Statham.xcodeproj">

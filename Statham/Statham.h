@@ -2,8 +2,8 @@
 //  Statham.h
 //  Statham
 //
-//  Created by Mathijs Bernson on 27/10/2016.
-//
+//  Created by Mathijs Bernson on 04/04/2017.
+//  Copyright © 2017 Duckson. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
